@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(57, 57, 57);
+}
+h1{
+    color: white;
+}
+button{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    color: white;
+    border: 5px solid white;
+}
